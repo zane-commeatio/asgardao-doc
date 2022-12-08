@@ -32,19 +32,17 @@
 * [🤔 À propos](asgard-studio/a-propos.md)
 * [💸 Financement](asgard-studio/financement.md)
 
+## ⚔ ARCHITECTURE
+
+* [NFTs et SBTs](architecture/nfts-et-sbts/README.md)
+  * [Guerriers d'Asgard](architecture/nfts-et-sbts/guerriers-dasgard/README.md)
+    * [Les niveaux](architecture/nfts-et-sbts/guerriers-dasgard/les-niveaux.md)
+    * [Les évolutions](architecture/nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
+  * [Credentials](architecture/nfts-et-sbts/credentials.md)
+* [Token Design](architecture/token-design.md)
+* [Trésorerie](architecture/tresorerie.md)
+
 ***
 
-* [NFTs et SBTs](nfts-et-sbts/README.md)
-  * [Guerriers d'Asgard](nfts-et-sbts/guerriers-dasgard/README.md)
-    * [Les niveaux](nfts-et-sbts/guerriers-dasgard/les-niveaux.md)
-    * [Les évolutions](nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
-  * [Credentials](nfts-et-sbts/credentials.md)
-* [Token Design](token-design/README.md)
-  * [Page 7](token-design/page-7.md)
-  * [Architecture](token-design/architecture.md)
-  * [Page 5](token-design/page-5.md)
-* [Trésorerie](tresorerie/README.md)
-  * [Page 2](tresorerie/page-2.md)
-  * [Page 1](tresorerie/page-1.md)
 * [Branding](branding.md)
-* [Page 8](page-8.md)
+* [Page 1](page-1.md)
