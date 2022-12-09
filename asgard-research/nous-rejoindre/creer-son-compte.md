@@ -21,7 +21,7 @@ Abonnement classique par CB.
 
 L'abonnement en crypto fonctionne comme un système d'énergie.\
 \[X] USDC = 1 jour d'abonnement\
-Tu peux choisir de recharger ton NFT du montant que tu souhaites.
+Tu peux choisir de recharger l'énergie de ton NFT du montant que tu souhaites.
 
 1. :white\_check\_mark: Entrer ton email
 2. :white\_check\_mark: Choisir un mot de passe

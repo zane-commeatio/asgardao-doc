@@ -28,4 +28,4 @@ pour explorer l'écosystème
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-pour accélérer son évolution.
+pour accélérer son évolution

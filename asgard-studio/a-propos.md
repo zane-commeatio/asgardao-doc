@@ -19,3 +19,8 @@ Chaque **projet** sera une **subDAO** et aura son **propre conseil**.&#x20;
 Le but étant de créer une **dynamique** de **travail**, **supervisée** par la **core team de l’Asgard Studio** et de lancer des **applications** **blockchain** avec des cas d’usage **novateurs** et **utiles**.
 
 **Ces projets seront issus de travaux communs dans l’Asgard Studio.**
+
+{% hint style="info" %}
+Si vous êtes un builder et que vous souhaitez contribuer, vous pouvez nous contacter sur nos réseaux sociaux ou envoyer un email
+{% endhint %}
+

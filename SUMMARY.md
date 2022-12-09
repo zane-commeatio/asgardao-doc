@@ -34,15 +34,12 @@
 
 ## ⚔ ARCHITECTURE
 
-* [NFTs et SBTs](architecture/nfts-et-sbts/README.md)
-  * [Guerriers d'Asgard](architecture/nfts-et-sbts/guerriers-dasgard/README.md)
-    * [Les niveaux](architecture/nfts-et-sbts/guerriers-dasgard/les-niveaux.md)
-    * [Les évolutions](architecture/nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
-  * [Credentials](architecture/nfts-et-sbts/credentials.md)
-* [Token Design](architecture/token-design.md)
-* [Trésorerie](architecture/tresorerie.md)
+* [NFTs et SBTs](nfts-et-sbts/README.md)
+  * [Guerriers d'Asgard](nfts-et-sbts/guerriers-dasgard/README.md)
+    * [Les évolutions](nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
+  * [Credentials](nfts-et-sbts/credentials.md)
+* [Token Design](token-design/README.md)
 
 ***
 
 * [Branding](branding.md)
-* [Page 1](page-1.md)

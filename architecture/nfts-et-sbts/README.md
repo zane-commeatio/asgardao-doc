@@ -1,2 +1,0 @@
-# NFTs et SBTs
-
