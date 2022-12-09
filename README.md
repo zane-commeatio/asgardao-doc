@@ -8,6 +8,12 @@ coverY: 0
 
 # 🤔 À propos
 
+{% hint style="info" %}
+Notez que la DAO est propice à évolution et changement au fur et à mesure du temps. Ce que vous lirez ici n'est que notre vision première de la DAO telle que nous la percevons. \
+\
+Les bases fondamentales de celle-ci sont bien en place mais la DAO étant dans sa phase de création, certaines modifications peuvent avoir lieu.&#x20;
+{% endhint %}
+
 **Asgard DAO** a été fondée par une **communauté** de **passionnés**, de **builders** et **d’investisseurs** de l’écosystème du **web3**.
 
 {% hint style="info" %}

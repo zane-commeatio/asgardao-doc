@@ -36,9 +36,11 @@
 
 * [NFTs et SBTs](nfts-et-sbts/README.md)
   * [Guerriers d'Asgard](nfts-et-sbts/guerriers-dasgard/README.md)
+    * [Les niveaux](architecture/nfts-et-sbts/guerriers-dasgard/les-niveaux.md)
     * [Les évolutions](nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
   * [Credentials](nfts-et-sbts/credentials.md)
 * [Token Design](token-design/README.md)
+* [Page 7](architecture/page-7.md)
 
 ***
 

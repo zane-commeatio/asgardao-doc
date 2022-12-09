@@ -12,7 +12,7 @@ Chaque action et grade donne droit à du token, répartit selon le schéma suiva
 
 Notre technologie de bot développée pour Asgard Research permet une division du travail (le Fordisme de l’analyse crypto). \
 \
-Dans cette division, chaque partie prenante gagne du token de gouvernance, c’est du Research Mining. Il n’y a aucun premine sur le supply. \
+Dans cette division, chaque partie prenante gagne du token de gouvernance (l'Éclair d'Odin) , c’est du Research Mining. Il n’y a aucun premine sur le supply. \
 \
 Ni les fondateurs ni le conseil ne peut avoir accès à une partie du supply. Seules les parties prenantes peuvent mint notre token de gouvernance. \
 \
