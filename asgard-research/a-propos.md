@@ -17,6 +17,10 @@ description: >-
 
 Notre équipe a développé une technologie permettant d’améliorer les processus de travail, d’accélérer la diffusion des recherches et de partager les tâches de manière efficiente.
 
+{% hint style="info" %}
+Nous nous inscrivons dans la mouvance DeSci. C'est la decentralized science, dans notre cas, **decentralized intelligence**.
+{% endhint %}
+
 Cette technologie développée par nous et pour nous, permet à la **DAO** d’être efficiente dans ses recherches et de surveiller tous les nouveaux projets et tendances du marché.
 
 Cette **organisation** permet **d’établir** des **thèses** **d’investissements** et de saisir des **opportunités** à **grande** **échelle** très **rapidement**.
