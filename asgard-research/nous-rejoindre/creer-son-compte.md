@@ -17,7 +17,7 @@ Abonnement classique par CB.
 
 
 
-### ****:coin: ** **~~**Crypto**~~** \[coming soon]**
+### ****:coin: ** **~~**Crypto**~~** (**:warning:**TBA)**
 
 L'abonnement en crypto fonctionne comme un système d'énergie.\
 \[X] USDC = 1 jour d'abonnement\

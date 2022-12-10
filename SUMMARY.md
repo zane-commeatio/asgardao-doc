@@ -20,12 +20,10 @@
     * [🔨 Forgerons](asgard-research/fonctionnement/division-du-travail/forgerons.md)
     * [🛡 Gardiens](asgard-research/fonctionnement/division-du-travail/gardiens.md)
 * [⛏ Le Research Mining](asgard-research/le-research-mining/README.md)
-  * [L'éclair d'Odin](asgard-research/le-research-mining/leclair-dodin.md)
+  * [$ECLAIR](asgard-research/le-research-mining/usdeclair.md)
   * [$ASGARD](asgard-research/le-research-mining/usdasgard.md)
 * [🪟 Dashboard](asgard-research/dashboard/README.md)
-  * [Page 6](asgard-research/dashboard/page-6.md)
-  * [Page 4](asgard-research/dashboard/page-4.md)
-  * [Page 3](asgard-research/dashboard/page-3.md)
+  * [TBA](asgard-research/dashboard/tba.md)
 
 ## 🛠 ASGARD Studio
 
@@ -39,8 +37,7 @@
     * [Les niveaux](architecture/nfts-et-sbts/guerriers-dasgard/les-niveaux.md)
     * [Les évolutions](nfts-et-sbts/guerriers-dasgard/les-evolutions.md)
   * [Credentials](nfts-et-sbts/credentials.md)
-* [Token Design](token-design/README.md)
-* [Page 7](architecture/page-7.md)
+* [Token Design](architecture/token-design.md)
 
 ***
 
