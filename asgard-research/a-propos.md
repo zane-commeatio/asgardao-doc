@@ -1,8 +1,8 @@
 ---
 description: >-
-  Asgard Research à pour objectif principal la recherche fondamentale,
-  macro-économique, et technique, dans le but de produire des thèses
-  d’investissement éclairées.
+  Asgard Research à pour objectif principal la recherche fondamentale, et
+  l'analyse de données, dans le but de produire des thèses d’investissement
+  éclairées.
 ---
 
 # 🤔 À propos
