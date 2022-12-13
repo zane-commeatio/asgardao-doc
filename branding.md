@@ -2,7 +2,7 @@
 description: Ici retrouvez les éléments afin de promouvoir Asgard DAO
 ---
 
-# Branding
+# 🎨 Branding
 
 **Logo**
 
@@ -25,4 +25,6 @@ description: Ici retrouvez les éléments afin de promouvoir Asgard DAO
 🏰
 
 ⚡
+
+
 

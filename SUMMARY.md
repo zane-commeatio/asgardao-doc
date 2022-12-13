@@ -41,4 +41,5 @@
 
 ***
 
-* [Branding](branding.md)
+* [🎨 Branding](branding.md)
+* [🐦 Twitter](https://twitter.com/asgard\_dao)
