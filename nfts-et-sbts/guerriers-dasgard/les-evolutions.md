@@ -1,12 +1,6 @@
 # Les évolutions
 
-TBA
+Au fur et a mesure de votre contribution, vous gagnerez des :zap:.
 
-Les évolutions de votre guerrier représentent des passages de niveaux et des traits physiques spécifiques.
-
-Selon les pôles auxquelles vous contribuez, vous gagnerez une XP différente.&#x20;
-
-<figure><img src="../../.gitbook/assets/Sans titre (13).png" alt=""><figcaption></figcaption></figure>
-
-Votre Guerrier prendra des traits croisés de l'XP avec lequel vous le nourrissez.
+Votre quantité d':zap:vous permet de débloquer des traits, que vous pouvez équiper à votre guise sur votre Guerrier.
 
