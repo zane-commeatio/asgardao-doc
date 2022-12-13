@@ -43,3 +43,4 @@
 
 * [🎨 Branding](branding.md)
 * [🐦 Twitter](https://twitter.com/asgard\_dao)
+* [📧 Email](mailto:contact@asgardao.io)
