@@ -4,7 +4,7 @@ description: Minting par la contribution
 
 # ⛏ Le Research Mining
 
-Vous avez entendu du liquidité mining ? : vous déposer une certaine liquidité pour un protocole, afin qu’il puisse fonctionner et en échange il vous récompense de son token de gouvernance. \
+Vous avez entendu parler du liquidité mining ? : vous déposer une certaine liquidité pour un protocole, afin qu’il puisse fonctionner et en échange il vous récompense de son token de gouvernance. \
 \
 Ici nous appliquons ce même concept de mining mais avec la recherche. \
 \
