@@ -7,6 +7,10 @@ description: >-
 
 # 🤔 À propos
 
+{% hint style="warning" %}
+Beta fermée de 3 mois (jusqu'au 14 mars 2023) pour monitorer et consolider le système.
+{% endhint %}
+
 {% embed url="https://research.asgardao.io" %}
 
 > Nous sommes un groupe de personnes animés par la _**réflexion**_ et la _**curiosité**_. :brain:\

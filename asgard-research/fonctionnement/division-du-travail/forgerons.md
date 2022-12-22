@@ -24,3 +24,11 @@ Il proposent leur article avec les ressources utilisées aux **Gardiens** sous l
 **Tout autre format ne sera pas éxaminé.**
 {% endhint %}
 
+
+
+### Comment devenir Forgeron ?
+
+1. Atteindre \[x] $ECLAIR
+2. Faire une proposal de candidature (rédigée)
+3. Les membres de la DAO votent l'obtention ou non.
+
