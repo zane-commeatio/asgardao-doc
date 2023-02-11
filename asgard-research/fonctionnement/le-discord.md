@@ -15,5 +15,5 @@ Asgard Research
 
 * 🏰 **| great-hall** => Là où les Rangers partagent leurs découvertes.
 * 👁️ **| watchtower** => Là où les Sentinelles notent la qualité des ressources.
-* 🔨 **| the-forge** => Là où les Forgerons trouvent les ressources à utiliser pour leurs analyses.
+* 🔨 **| the-forge** => Là où les Forgerons soumettent leurs articles.
 * **🛡️ | asgard-council** => Là où les Gardiens du conseil discutent de la qualité des analyses proposées.

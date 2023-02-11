@@ -11,6 +11,6 @@ Ils sont élus pour une saison et sont au nombre de 5.&#x20;
 Les gardiens du conseil sont l'ultime validation de toutes la chaine de traitement et d'analyse de l'information. \
 
 
-Les gardiens du Conseil étant les plus expérimentés, ceux-ci analyseront et jugeront les analyses des [forgerons.md](forgerons.md "mention")! \
+Les gardiens du Conseil étant les plus expérimentés, ceux-ci analyseront et jugeront les analyses des <mark style="color:green;"></mark> [forgerons.md](forgerons.md "mention")<mark style="color:green;">!</mark> \
 \
-Si les articles réalisés par les [forgerons.md](forgerons.md "mention")sont validés alors ceux-ci seront partagés et publiés à l'ensemble de la DAO
+Si les articles réalisés par les [forgerons.md](forgerons.md "mention") sont validés alors ceux-ci seront partagés et publiés à l'ensemble de la DAO

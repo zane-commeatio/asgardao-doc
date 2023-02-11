@@ -1,6 +1,6 @@
 # 🔨 Forgerons
 
-Les Forgerons piochent dans les ressources du canal 🔨 **| the-forge** et rédigent un article d'analyse.
+Les Forgerons rédigent des articles d'analyse et de recherche.
 
 #### **L'article peut contenir:**
 
@@ -14,11 +14,11 @@ Les Forgerons piochent dans les ressources du canal 🔨 **| the-forge** et réd
 * Titre (max 50 caractères)
 * Introduction (1 phrase)
 * Miniature (format 16:9)
-* Liste des sources avec lien (minimum 1 ressource venant de la communauté)
+* Liste des sources avec lien
 
 
 
-Il proposent leur article avec les ressources utilisées aux **Gardiens** sous la forme au choix d'une **page Notion** ou d'un **Google doc**.&#x20;
+Il proposent leur article avec les ressources utilisées aux **Gardiens** sous la forme d'une **page Notion**.&#x20;
 
 {% hint style="warning" %}
 **Tout autre format ne sera pas éxaminé.**

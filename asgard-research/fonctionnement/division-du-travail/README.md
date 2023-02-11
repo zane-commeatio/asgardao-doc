@@ -6,27 +6,31 @@ description: >-
 
 # 🏗 Division du travail
 
-### La chaine de valeur est divisée en 4 parties
+### La chaine de valeur est divisée en 2 poles
 
-#### **1. Récolte d’information/contenu**
+### <mark style="color:yellow;">La librairie</mark>
+
+#### **1. Récolte contenu a forte valeur**
 
 {% content-ref url="rangers.md" %}
 [rangers.md](rangers.md)
 {% endcontent-ref %}
 
-#### **2. Notation des contenus**
+#### **2. Qualification des contenus**
 
 {% content-ref url="sentinelles.md" %}
 [sentinelles.md](sentinelles.md)
 {% endcontent-ref %}
 
-#### **3. Production d’article en s’appuyant sur les ressources**
+### <mark style="color:yellow;">La recherche</mark>
+
+#### **1. Production d’articles**
 
 {% content-ref url="forgerons.md" %}
 [forgerons.md](forgerons.md)
 {% endcontent-ref %}
 
-#### **4. Décision de publier ou non l’article**
+#### **2. Décision de publier ou non l’article**
 
 {% content-ref url="gardiens.md" %}
 [gardiens.md](gardiens.md)
