@@ -6,7 +6,7 @@ description: Comprendre l'univers dans lequel tu viens d'atterrir
 
 Après t'être abonné et avoir cliqué sur le lien reçu par email, tu es sur l'**espace membre** privé d'**ASGARD Research.**
 
-****
+
 
 ## Vérifier ton compte Discord
 

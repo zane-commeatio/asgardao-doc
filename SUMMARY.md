@@ -7,7 +7,6 @@
 
 * [🤔 À propos](asgard-research/a-propos.md)
 * [👋 Nous rejoindre](asgard-research/nous-rejoindre/README.md)
-  * [✍ Créer son compte](asgard-research/nous-rejoindre/creer-son-compte.md)
   * [🐣 Premiers pas](asgard-research/nous-rejoindre/premiers-pas.md)
   * [🚹 Ton avatar](asgard-research/nous-rejoindre/ton-avatar.md)
   * [🖥 L'espace membre](asgard-research/nous-rejoindre/lespace-membre.md)

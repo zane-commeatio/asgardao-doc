@@ -14,5 +14,5 @@ Discord fonctionne avec un système de channels (canaux)
 
 
 
-## ****:warning: **\[ASGARDIENS ! SI QUELQU'UN POUVAIT ÉCRIRE UN PETIT TUTO ÇA SERAIT TRÈS SYMPA]**
+## :warning: **\[ASGARDIENS ! SI QUELQU'UN POUVAIT ÉCRIRE UN PETIT TUTO ÇA SERAIT TRÈS SYMPA]**
 

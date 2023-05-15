@@ -10,7 +10,7 @@ Les ressources ayant obtenu un score supérieur à 3 sont jugés d'assez bonne q
 
 Lorsqu'une note est finalisée les <mark style="color:green;">Sentinelles</mark> qui ont jugé dans le sens de la décision finale gagnent **1 $ECLAIR**
 
-****
+
 
 ### Comment devenir <mark style="color:green;">Sentinelle</mark> ?
 

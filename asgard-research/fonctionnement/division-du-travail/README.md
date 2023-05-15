@@ -36,7 +36,7 @@ description: >-
 [gardiens.md](gardiens.md)
 {% endcontent-ref %}
 
-****
+
 
 Tous les participants à une analyse publiée gagnent des **$ECLAIR** qui pourra ensuit être redeem contre des tokens de DAO.
 

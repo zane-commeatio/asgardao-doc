@@ -8,7 +8,7 @@ coverY: 0
 
 # 🤔 À propos
 
-### **Nous avons créé ces 2 pôles pour servir la cause** :point\_down:****
+### **Nous avons créé ces 2 pôles pour servir la cause** :point\_down:
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
